@@ -241,7 +241,7 @@ p{
     background-size: cover;
     height: 520px;
     width: 100%;
-    margin-left: 0%;
+    margin-left: 18%;
 }
     /* ... */
 }
@@ -279,6 +279,7 @@ p{
     background-size: cover;
     height: 520px;
     width: 100%;
+    margin-left: 0%;
 }
 
 
@@ -306,6 +307,15 @@ p{
     line-height: 1.5;
     border-radius: 3.25rem;
     transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}
+
+    .dr-luis{
+    background-image: url('../img/foto-dr-luis-bermudez-2018.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 520px;
+    width: 100%;
+    margin-left: 0%;
 }
     /* ... */
 }
